@@ -1,0 +1,7 @@
+We can conclude from the data that the schools with the higher passing rate in both math and reading are the next ones:
+	School type: Charter
+	Size: Small or medium
+	Spending: Less or equal to $585
+
+Also, Cabrera High School is a good option for you, if you want the higher passing rate in both math and reading, but you need
+be aware that the total budget of school is pretty high.
